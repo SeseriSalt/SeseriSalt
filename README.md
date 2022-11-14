@@ -1,6 +1,10 @@
+<p>
+  <img alt="Top Langs" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeseriSalt&theme=solarized-dark" />
+</p>
+
 <p align="left"> 
-  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
-  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=solarized-dark" />
+  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
+  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&count_private=true&theme=solarized-dark" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SeseriSalt&theme=tokyonight&column=7
