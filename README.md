@@ -2,7 +2,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
 </a>
 <a href="https://github.com/SeseriSalt/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=solarized-dark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&theme=solarized-dark" />
 </a>
 
 <!--
