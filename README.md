@@ -1,9 +1,9 @@
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=tokyonight" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=solarized-dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SeseriSalt&theme=tokyonight&column=7
+[![trophy](https://github-profile-trophy.vercel.app/?username=SeseriSalt&theme=solarized-dark&column=7
 )](https://github.com/SeseriSalt/github-profile-trophy)
 <!--
 **SeseriSalt/SeseriSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
