@@ -1,5 +1,10 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/SeseriSalt/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=solarized-dark)](https://github.com/SeseriSalt/github-readme-stats)
+<a href="https://github.com/SeseriSalt/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
+</a>
+<a href="https://github.com/SeseriSalt/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&theme=solarized-dark" />
+</a>
+
 <!--
 **SeseriSalt/SeseriSalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
