@@ -1,5 +1,5 @@
 <p>
-  <img alt="Top Glaph" height="300px" src="https://raw.githubusercontent.com/SeseriSalt/SeseriSalt/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
+  <img alt="Top Glaph" height="220px" src="https://raw.githubusercontent.com/SeseriSalt/SeseriSalt/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
 
 <p align="left"> 
