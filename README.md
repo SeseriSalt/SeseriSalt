@@ -2,6 +2,8 @@
   <img alt="Top Langs" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeseriSalt&theme=solarized-dark" />
 </p>
 
+![](https://raw.githubusercontent.com/SeseriSalt/SeseriSalt/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+
 <p align="left"> 
   <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api?username=SeseriSalt&count_private=true&show_icons=true&theme=solarized-dark" />
   <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeseriSalt&layout=compact&count_private=true&theme=solarized-dark" />
