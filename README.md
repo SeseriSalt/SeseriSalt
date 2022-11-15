@@ -1,5 +1,5 @@
 <p>
-  <img alt="Top Langs" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeseriSalt&theme=solarized-dark" />
+  <img alt="Top Glaph" height="200px" src="https://raw.githubusercontent.com/SeseriSalt/SeseriSalt/main/profile-summary-card-output/solarized_dark/0-profile-details.svg" />
 </p>
 
 ![](https://raw.githubusercontent.com/SeseriSalt/SeseriSalt/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
